@@ -46,6 +46,9 @@ https://t.me/evolutioncms
 English Forum:
 https://forum.evo.im
 
+Русскоязычное сообщество:
+https://modx.evo.im/
+
 Slack channel:
 https://evocmf.slack.com
 
